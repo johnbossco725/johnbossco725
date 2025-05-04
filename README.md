@@ -1,4 +1,4 @@
-# Hi 👋, I'm Notary Bob
+# Hi 👋, I'm John Boss Co
 
 ### Full-Stack Developer | Blockchain Enthusiast | Web2 + Web3 Engineeer
 
